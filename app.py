@@ -1,1 +1,1 @@
-print 'Prices: '
+print 'Hello World'
